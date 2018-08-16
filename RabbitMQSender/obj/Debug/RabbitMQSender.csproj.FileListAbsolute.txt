@@ -1,0 +1,9 @@
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\RabbitMQSender.exe.config
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\RabbitMQSender.exe
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\RabbitMQSender.pdb
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\RabbitMQ.Client.dll
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\bin\Debug\RabbitMQ.Client.xml
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\obj\Debug\RabbitMQSender.exe
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSender\obj\Debug\RabbitMQSender.pdb

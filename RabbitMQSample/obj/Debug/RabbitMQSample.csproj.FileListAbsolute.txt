@@ -1,0 +1,10 @@
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\RabbitMQSample.exe.config
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\RabbitMQSample.exe
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\RabbitMQSample.pdb
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\RabbitMQ.Client.dll
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\bin\Debug\RabbitMQ.Client.xml
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\obj\Debug\RabbitMQSample.exe
+c:\users\chezwang\documents\visual studio 2015\Projects\RabbitMQSample\RabbitMQSample\obj\Debug\RabbitMQSample.pdb
+C:\Users\chezwang\Documents\Visual Studio 2015\Projects\RabbitMQSample\RabbitMQSample\obj\Debug\RabbitMQSample.csprojResolveAssemblyReference.cache
